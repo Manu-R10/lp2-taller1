@@ -25,9 +25,7 @@ Construir una tienda virtual sencilla usando **Flask**, donde el catálogo de pr
 
 ## Lista de tareas del taller
 
-Esta es la hoja de ruta que seguiremos (ligeramente ampliada respecto al
-plan original, agregando pasos que son buena práctica y que necesitarás
-para poder ejecutar y probar tu proyecto):
+Esta es la hoja de ruta que seguiremos (ligeramente ampliada respecto al plan original, agregando pasos que son buena práctica y que necesitarás para poder ejecutar y probar tu proyecto):
 
 ---
 
@@ -263,9 +261,3 @@ Verifica:
 - [ ] `requirements.txt` está generado.
 - [ ] La aplicación corre con `python run.py` sin errores.
 
-## Posibles extensiones (para talleres siguientes)
-
-- Agregar un buscador de productos por nombre o marca.
-- Agregar categorías de productos.
-- Agregar un carrito de compras usando la sesión de Flask (`flask.session`).
-- Migrar el catálogo de JSON a una base de datos (SQLite + SQLAlchemy).
