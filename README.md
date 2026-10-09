@@ -7,7 +7,7 @@
 
 ## Autor
 
-- [@estudiante](https://www.github.com/estudiante)
+- [Manuel Raigosa ](https://www.github.com/Manu-R10)
 
 ## Descripción del Proyecto
 
