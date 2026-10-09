@@ -1,16 +1,72 @@
 [
-  {
-    "sku": "TEC-001",
-    "marca": "Logitech",
-    "nombre": "Mouse inalámbrico MX Master",
-    "precio": 349900,
-    "foto": "images/mouse-mx-master.webp"
-  },
-  {
-    "sku": "TEC-002",
-    "marca": "Kingston",
-    "nombre": "Memoria USB 64GB",
-    "precio": 39900,
-    "foto": "images/usb-kingston-64gb.webp"
-  }
+{
+"sku": "TEC-001",
+"marca": "Logitech",
+"nombre": "Mouse inalámbrico MX Master",
+"precio": 349900,
+"foto": "images/mouse-mx-master.webp"
+},
+{
+"sku": "TEC-002",
+"marca": "Kingston",
+"nombre": "Memoria USB 64GB",
+"precio": 39900,
+"foto": "images/usb-kingston-64gb.webp"
+},
+{
+"sku": "TEC-003",
+"marca": "Logitech",
+"nombre": "Teclado inalámbrico",
+"precio": 129900,
+"foto": "images/teclado.webp"
+},
+{
+"sku": "TEC-004",
+"marca": "Samsung",
+"nombre": "Monitor LED 24 pulgadas",
+"precio": 699900,
+"foto": "images/monitor.webp"
+},
+{
+"sku": "TEC-005",
+"marca": "Sony",
+"nombre": "Audífonos inalámbricos",
+"precio": 199900,
+"foto": "images/audifonos.webp"
+},
+{
+"sku": "TEC-006",
+"marca": "Logitech",
+"nombre": "Cámara web HD",
+"precio": 159900,
+"foto": "images/camara-web.webp"
+},
+{
+"sku": "TEC-007",
+"marca": "SanDisk",
+"nombre": "Memoria microSD 128GB",
+"precio": 59900,
+"foto": "images/microsd.webp"
+},
+{
+"sku": "TEC-008",
+"marca": "HP",
+"nombre": "Teclado mecánico",
+"precio": 219900,
+"foto": "images/teclado-mecanico.webp"
+},
+{
+"sku": "TEC-009",
+"marca": "JBL",
+"nombre": "Parlante Bluetooth",
+"precio": 179900,
+"foto": "images/parlante.webp"
+},
+{
+"sku": "TEC-010",
+"marca": "Logitech",
+"nombre": "Mouse inalámbrico compacto",
+"precio": 79900,
+"foto": "images/mouse-compacto.webp"
+}
 ]
