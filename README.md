@@ -10,7 +10,6 @@
 - [Manuel Raigosa ](https://www.github.com/Manu-R10)
 
 ## Descripción del Proyecto
-Este proyecto corresponde al Taller 1 de Lenguaje de Programación 2.
 Se desarrolló una tienda virtual utilizando Flask, donde el catálogo de productos se carga desde un archivo JSON, sin utilizar una base de datos.
 La aplicación permite:
 
@@ -47,8 +46,6 @@ Git y GitHub
 Ubuntu / WSL2
 
 ## Instalación
-## Descripción de la instalación y desarrollo
-
 Para realizar este taller trabajé en un entorno **Ubuntu mediante WSL2**, utilizando **Python** y un entorno virtual (`venv`) para mantener aisladas las dependencias del proyecto.
 
 1. Clonar el proyecto
