@@ -10,14 +10,46 @@
 - [Manuel Raigosa ](https://www.github.com/Manu-R10)
 
 ## Descripción del Proyecto
+Este proyecto corresponde al Taller 1 de Lenguaje de Programación 2.
+Se desarrolló una tienda virtual utilizando Flask, donde el catálogo de productos se carga desde un archivo JSON, sin utilizar una base de datos.
+La aplicación permite:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut quam dolor. Quisque elementum est sed massa gravida convallis. Donec volutpat turpis eget lectus feugiat congue. Morbi rutrum auctor eleifend. Etiam iaculis libero tellus, vel aliquet erat tempor sed. Duis efficitur quam vel sapien luctus, sed semper lacus mollis. Suspendisse non nunc eleifend, aliquet elit eget, condimentum augue.
+Mostrar un catálogo de productos.
 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus vel nibh fringilla, porta elit vel, consequat libero. Nulla et libero ac nulla ultricies sollicitudin. Sed viverra non nulla id convallis. Morbi vel varius lacus, in maximus nunc. Praesent sed semper diam. Pellentesque vehicula nulla augue, ut porta dolor consequat at.
+Mostrar la imagen, nombre, marca y precio de cada producto.
+
+Consultar el detalle de un producto mediante su SKU.
+
+Manejar productos que no existen mediante una respuesta 404.
+
+Utilizar plantillas HTML con Jinja2.
+
+Organizar la aplicación utilizando el patrón Application Factory y un Blueprint.
+
+Mantener las imágenes de los productos dentro de app/static/images/.
+
+Tecnologías utilizadas
+
+Python 3.10+
+
+Flask
+
+Jinja2
+
+JSON
+
+HTML
+
+CSS
+
+Git y GitHub
+
+Ubuntu / WSL2
 
 ## Instalación
+## Descripción de la instalación y desarrollo
 
-Morbi quam lectus, tempus sit amet mi non, facilisis dignissim erat. Aenean tortor libero, rhoncus eu eleifend ut, volutpat id nisi. Ut porta eros at ante rutrum pharetra. Integer nec nulla dictum, vestibulum ligula id, hendrerit ex. Morbi eget tortor metus.
+Para realizar este taller trabajé en un entorno **Ubuntu mediante WSL2**, utilizando **Python** y un entorno virtual (`venv`) para mantener aisladas las dependencias del proyecto.
 
 1. Clonar el proyecto
 ```bash
